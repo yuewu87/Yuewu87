@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **yuewu87/Yuewu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-在学习阶段最大的错误就是依赖ai, 特别是claude code ⊂彡☆))д`)
+## 原本以为只试一次不会怎么样的( ⁰▿⁰)
 
-我需要提升代码写作能力
+<img width="320" height="310" alt="claude" src="https://github.com/user-attachments/assets/ae16fae2-ed9b-45d6-95ac-ecc7ee568505" />
 
-我需要建立个人的知识库
-
-我的邮箱:18722773218@163.com/wyue9914@gmail.com
+## 我的邮箱:18722773218@163.com/wyue9914@gmail.com
 
 <img width="2560" height="1440" alt="1689998870036e9cf1813c0565832a008c90381730a543e1dfdf289212e3ad0ea8386f07bbe57 0" src="https://github.com/user-attachments/assets/1f9d57c9-28c0-4bed-8241-f818c55d0ee1" />
